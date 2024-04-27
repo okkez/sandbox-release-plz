@@ -1,5 +1,3 @@
 [workspace]
+publish = false
 
-[[package]]
-  name = "sandbox-release-plz"
-  publish = false
